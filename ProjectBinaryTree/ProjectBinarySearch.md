@@ -9,8 +9,8 @@ The array is not sorted, therefore root is selected randomly as 6. Binary search
 					     / \
 					    5   7
 					   / 	  \
-					  1		   8
-					 / \		 \
-					0    3		  9
-						/ \
+					  1	   8
+					 / \	    \
+					0    3	     9
+					    / \
 					   2   4
