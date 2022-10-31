@@ -14,12 +14,12 @@
      merge [16, 21],[11],[8,12], [22]
 	            \    /      \     /	
 	             \  /        \   /
-                  \/	   \ /
+                  \/	  \ /
      merge    [11,16,21]   [8,12,22]
-		           \           / 
-		            \         /
-		             \       /
-		              \     /
+		        \           / 
+		         \         /
+		          \       /
+		           \     /
       merge      [8,11,12,16,21,22]
 ## 2. Write down big o notation of the sorting method.
 The algorithm had worked logn times to divide given array.
